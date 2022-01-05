@@ -1,0 +1,8 @@
+- initialise the project 
+- setup first view
+- create room id
+- ability to view our own video 
+- styling
+- ability to create and send messages to create and send message 
+- mute button
+- stop video button when
